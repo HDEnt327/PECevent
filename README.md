@@ -1,6 +1,6 @@
 <div align="center">
   
-![PECevent](src/titleimage.png)
+<img src="src/titleimage.png" width="200">
   
 # PECevent
 A sophisticated event system designed for Phigros Fanmade charting events
