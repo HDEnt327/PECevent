@@ -3,7 +3,7 @@
 <img src="src/titleimage.png" width="200">
   
 # PECevent
-A sophisticated event system designed for Phigros Fanmade charting events
+(or PECE) A sophisticated event system designed for Phigros Fanmade charting events
   
 </div>
 
