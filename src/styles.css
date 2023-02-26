@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Exo;
+    src: url(Exo-Regular.otf);
+}
+
+body{
+    background-color: #333;
+    color: white
+}
+
+.topbar{
+    font-family: Exo;
+}
+
+.title{
+    font-family: Exo;
+    text-align: center;;
+    font-size: 300%;
+    line-height: 40%;
+    text-shadow: 0 0 5px gray;
+}
