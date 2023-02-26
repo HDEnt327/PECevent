@@ -1,6 +1,8 @@
+<div align="center">
+![PECevent](src/titleimage.png)
 # PECevent
 A sophisticated event system designed for Phigros Fanmade charting events
-
+</div>
 ## Under Construction
 
 ## License
