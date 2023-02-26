@@ -1,2 +1,4 @@
-# pecevent
-A sophisticated event system designed for Phigros Fanmade chart events
+# PECevent
+A sophisticated event system designed for Phigros Fanmade charting events
+
+## Under Construction
