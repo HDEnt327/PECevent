@@ -3,11 +3,14 @@
 <img src="src/titleimage.png" width="200">
   
 # PECevent
-(or PEEC) A sophisticated event system designed for Phigros Fanmade charting events
+(or PEEC) A sophisticated event system designed for Phigros Fanmade Charting events
   
 </div>
 
-## Under Construction
+## About
+PEEC is an event system originally designed for Phigros Fanmade Charting events, although the main branch still focuses on this goal, the system may be altered and changed to fit for other rhythm game creativity contests. If you do not know how to modify or write css/html documents, refer to official documentation or sites like w3schools (https://www.w3schools.com/html/default.asp)
+
+This needs to be run under a server.
 
 ## License
 ### MIT License
